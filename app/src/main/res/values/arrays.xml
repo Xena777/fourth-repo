@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="heroes">
+        <item name="naruto">Наруто</item>
+        <item name="sasuke">Саске</item>
+        <item name="sakura">Сакура</item>
+        <item name="kakashi">Какаши-сенсей</item>
+    </string-array>
+    <string-array name="full_names">
+        <item>@string/narutoUdzumaki</item>
+        <item>@string/sasukeUchiha</item>
+        <item>@string/sakuraHaruno</item>
+        <item>@string/kakashiHatake</item>
+    </string-array>
+    <string-array name="discriptions">
+        <item name="naruto_discription">Главный герой истории, подросток-ниндзя, в теле которого его отец, жертвуя своей жизнью, заточил огромного Девятихвостого Демона-Лиса, напавшего на селение</item>
+        <item name="sasuke_discription">Один из главных персонажей, гений родом из сильнейшего, но давно уничтоженного клана Учиха</item>
+        <item name="sakura_discription">Одна из учениц академии ниндзя и член команды Саске, по уши влюбленная в него</item>
+        <item name="kakashi_discription">Один из самых сильных ниндзя Конохи, а также учитель и наставник команды №7</item>
+    </string-array>
+    <integer-array name="imageOfHeroes">
+        <item name="naruto_image">@drawable/naruto</item>
+        <item name="sasuke_image">@drawable/sasuke</item>
+        <item name="sakura_image">@drawable/sakura</item>
+        <item name="kakashi_image">@drawable/kakashi</item>
+    </integer-array>
+</resources>
